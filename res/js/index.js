@@ -1,15 +1,3 @@
-//ctx.fillStyle = "red";                // цвет заливки
-//ctx.lineWidth = 1;                    // толщина линии
-//ctx.strokeStyle = "black";            // цвет линии 
-//ctx.rect( x, y, w, h );               // квадрат
-//ctx.fillRect( x, y, w, h );           // залитый квадрат
-//ctx.arc( x, y, r, sA, eA, fdir );     // false cw true ccw
-//ctx.beginPath();                      // начало нового пути
-//ctx.closePath();                      // завершить линии в законченную фигуру
-//cts.fill()                            // залить
-//ctx.stroke();                         // отрисовать всё што перед этим 
-//ctx.clearRect( x, y, w, h );          // очистить по координатам
-//ctx.lineCap = "round";                // закруглить края
 function App(){
     return {
         canvas: false,  // canvas  
